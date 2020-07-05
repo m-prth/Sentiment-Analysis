@@ -20,6 +20,8 @@
 5. Tokenization of documents
 6. Transforming Text Data into TF-IDF Vectors
 7. Document Classsification using Logistic regression
+
+## Model Preparation
 ```  
 LogisticRegressionCV(cv=5,
                     scoring='accuracy',
