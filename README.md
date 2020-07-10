@@ -31,7 +31,7 @@ LogisticRegressionCV(cv=5,
                     max_iter=300)
 ```
 
-* Here, I used Logistic Regression on the cleaned data, and it was trained with 89% of accuracy classifying movie reviews.
+* Here, I used Logistic Regression on the cleaned data, and it was trained with 89% of accuracy classifying movie reviews.  
 Parth Mistry © 2020
 
 
