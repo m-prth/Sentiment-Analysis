@@ -1,5 +1,5 @@
 # Sentiment Analysis on IMDB Movie Reviews
->By Parth Mistry
+> Made by Parth Mistry
 
 * Contains 50K movie reviews for natural language processing or Text analytics.
 * This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets.
@@ -32,7 +32,7 @@ LogisticRegressionCV(cv=5,
 ```
 
 * Here, I used Logistic Regression on the cleaned data, and it was trained with 89% of accuracy classifying movie reviews.
-
+Parth Mistry © 2020
 
 
 
